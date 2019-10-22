@@ -1,0 +1,16 @@
+body {
+	font-style: italic;
+	text-align: center;
+	background-color: yellow;
+	color: Black;
+	font-size: large
+
+}
+
+h1 {
+	text-shadow: 2px 2px #ff0000;
+}
+
+.Class_A {
+color: blue;
+}
